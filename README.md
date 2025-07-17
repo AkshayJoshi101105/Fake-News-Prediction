@@ -1,1 +1,2 @@
-# Fake-News-Prediction
+# Fake-News-Prediction<br>
+Fake news with Python. We took a political dataset, implemented a TfidfVectorizer, initialized a PassiveAggressiveClassifier, and fit our model. We ended up obtaining an accuracy of 93.92%.
